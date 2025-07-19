@@ -6,7 +6,7 @@ twilionumber = ''
 twiliosmsnumber = ''
 
 #Telegram Bot Token
-API_TOKEN = "8078682981:AAECiP6bH9D7N7T6pA0HnBjnuOfBHKyHIT0" 
+API_TOKEN = "8078682981:AAGzRVAgU_kGg6o_yQkodPBea2f2gIQsBqg" 
 
 #Host URL
 callurl = '' 
