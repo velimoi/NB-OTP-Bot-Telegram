@@ -30,7 +30,7 @@ client = Client(account_sid, auth_token)
 app = Flask(__name__)
 
 # Bot connection
-bot = telebot.TeleBot(API_TOKEN, threaded=False)
+bot = telebot.TeleBot(8078682981:AAGzRVAgU_kGg6o_yQkodPBea2f2gIQsBqg, threaded=False)
 bot.remove_webhook()
 bot.set_webhook(url=callurl)
 
